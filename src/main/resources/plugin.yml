@@ -1,0 +1,5 @@
+name: JayAPI
+version: '${project.version}'
+main: me.jaywithabeanie.jayapi.JayAPI
+api-version: 1.19
+depend: [Multiverse-Core]
